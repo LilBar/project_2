@@ -1,5 +1,6 @@
 import random
 import sys
+
 win_numbers = [7, 11]
 lose_numbers = [2, 3, 12]
 a = input("If you want to start the game type 'yes', otherwise type 'no'\n")
